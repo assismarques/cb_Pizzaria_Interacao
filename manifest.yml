@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 1
+  domain: mybluemix.net
+  name: cb_Pizzaria_Interacao
+  host: PizzariaInteracaoTI
+  disk_quota: 1024M
